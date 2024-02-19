@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ifesinachi--obiora-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ifesinachi-obiora-b62b7a216)](https://www.linkedin.com/in/ifesinachi-obiora-b62b7a216)
 [![Twitter Badge](https://img.shields.io/badge/-@paschalobiora_-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/paschalobiora_)](https://twitter.com/paschalobiora_)
 [![Instagram Badge](https://img.shields.io/badge/-@paskkal.io-e4405f?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/paskkal.io/)](https://www.instagram.com/paskkal.io/)
-[![CodeSandbox Badge](https://img.shields.io/badge/-CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white&link=https://codesandbox.io/u/pasify)](https://codesandbox.io/u/pasify)
+[![CodeSandbox Badge](https://img.shields.io/badge/@pasify-CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white&link=https://codesandbox.io/u/pasify)](https://codesandbox.io/u/pasify)
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -28,7 +28,7 @@ I'm a Front-End Engineer, dedicated developer and unabashed enthusiast, passiona
 ### Seeking Opportunities
 
 - 😊 I’m looking for help with hackathons, internships, and entry-level opportunities.
-- 💼 Open to roles such as Software Engineer, Front-End Engineer, Mobile Appliscation Development (Intern, Junior level, Mid Level).
+- 💼 Open to roles such as Software Engineer, Front-End Engineer, Mobile Application Development (Intern, Junior level, Mid Level).
 
 ### Get in Touch
 
@@ -37,5 +37,5 @@ I'm a Front-End Engineer, dedicated developer and unabashed enthusiast, passiona
 
 ### Excited about the endless possibilities of technology, I'm ready to contribute and create impactful solutions. Let's connect and build something extraordinary! 💻🚀
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pasify&show_icons=true&include_all_commits=true&hide_border=true" alt="Paskkal's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasify&langs_count=8&layout=compact&hide_border=true" alt="Paskkal's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=pasify&show_icons=true&include_all_commits=true&hide_border=true" alt="Paskkal's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasify&langs_count=8&layout=compact&hide_border=true" alt="Paskkal's GitHub stats" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
