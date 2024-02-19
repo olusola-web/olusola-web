@@ -3,7 +3,7 @@
 ## Welcome to My Creative Code Haven! 🎨💻
 
 [![Website Badge](https://img.shields.io/badge/-https://pasify.github.io-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://pasify.github.io)](https://pasify.github.io)
-[![Linkedin Badge](https://img.shields.io/badge/-ifesinachi-obiora-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iambolajiayo)](https://www.linkedin.com/in/iambolajiayo)
+[![Linkedin Badge](https://img.shields.io/badge/-ifesinachi-obiora-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ifesinachi-obiora-b62b7a216)](https://www.linkedin.com/in/ifesinachi-obiora-b62b7a216)
 [![Twitter Badge](https://img.shields.io/badge/-@paschalobiora_-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/paschalobiora_)](https://twitter.com/paschalobiora_)
 [![Instagram Badge](https://img.shields.io/badge/-@paskkal.io-e4405f?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/paskkal.io/)](https://www.instagram.com/paskkal.io/)
 [![CodeSandbox Badge](https://img.shields.io/badge/-CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white&link=https://codesandbox.io/u/pasify)](https://codesandbox.io/u/pasify)
