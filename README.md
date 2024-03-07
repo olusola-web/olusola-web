@@ -3,7 +3,7 @@
 ## Welcome to My Creative Code Haven! 🎨💻
 
 [![Website Badge](https://img.shields.io/badge/pasify.github.io-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://pasify.github.io)](https://pasify.github.io)
-[![Linkedin Badge](https://img.shields.io/badge/olusola-korode-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olusola-korode-b62b7a216)](https://www.linkedin.com/in/olusola-korode-b62b7a216)
+[![Linkedin Badge](https://img.shields.io/badge/olusola-korode-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olusola-korode-b62b7a216)](https://www.linkedin.com/in/olusola-korode-58b2b9b1)
 [![Twitter Badge](https://img.shields.io/badge/-@KorodeOlusola_-1ca0f1?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/paschalobiora_)](https://x.com/KorodeOlusola)
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -41,5 +41,5 @@ I'm a Front-End Engineer, dedicated developer and unabashed enthusiast, passiona
 
 ### Excited about the endless possibilities of technology, I'm ready to contribute and create impactful solutions. Let's connect and build something extraordinary! 💻🚀
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=pasify&show_icons=true&include_all_commits=true&hide_border=true" alt="Paskkal's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasify&langs_count=8&layout=compact&hide_border=true" alt="Paskkal's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=olusola-web&show_icons=true&include_all_commits=true&hide_border=true" alt="Olusola's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olusola-web&langs_count=8&layout=compact&hide_border=true" alt="Olusola's GitHub stats" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
