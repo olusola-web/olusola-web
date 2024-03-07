@@ -14,7 +14,7 @@ I'm a Front-End Engineer, dedicated developer and unabashed enthusiast, passiona
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him.
+- 😊 Pronouns: She/her.
 - 💡 Fun fact: I'm not just good, I'm game-changing. Fueled by passion, dedication, and a relentless drive to elevate my craft. 🔥🔥.
 
 ### About Me
@@ -29,7 +29,6 @@ I'm a Front-End Engineer, dedicated developer and unabashed enthusiast, passiona
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-  ![ReactNative](https://img.shields.io/badge/-ReactNative-%23282C34?style=flat-square&logo=react)
   ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
 ### Seeking Opportunities
