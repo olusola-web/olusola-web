@@ -2,7 +2,7 @@
 
 ## Welcome to My Creative Code Haven! 🎨💻
 
-[![Website Badge](https://img.shields.io/badge/pasify.github.io-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://pasify.github.io)](https://pasify.github.io)
+[![Website Badge](https://img.shields.io/badge/olusola-portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://pasify.github.io)](https://olusola-portfolio.netlify.app/)
 [![Linkedin Badge](https://img.shields.io/badge/olusola-korode-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olusola-korode-b62b7a216)](https://www.linkedin.com/in/olusola-korode-58b2b92b1)
 [![Twitter Badge](https://img.shields.io/badge/-@KorodeOlusola_-1ca0f1?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/paschalobiora_)](https://x.com/KorodeOlusola)
 
@@ -36,7 +36,7 @@ I'm a Front-End Engineer, dedicated developer and unabashed enthusiast, passiona
 
 ### Get in Touch
 
-- 📫 visit my [website](https://pasify.github.io).
+- 📫 visit my [website](https://olusola-portfolio.netlify.app/).
 - 📧 Contact me at [olusolakorode@gmail.com](mailto:olusolakorode@gmail.com). Let's connect! 🚀
 
 ### Excited about the endless possibilities of technology, I'm ready to contribute and create impactful solutions. Let's connect and build something extraordinary! 💻🚀
